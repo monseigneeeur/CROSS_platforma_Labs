@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CrossRoute": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"D:\\KNU\\CROSS\\Tauyrskii_Lab3\\Files\"\r\n-o \"D:\\KNU\\CROSS\\Tauyrskii_Lab3\\Files\""
+    }
+  }
+}
